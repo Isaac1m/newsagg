@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="standard_padding_sm">10dp</dimen>
+    <dimen name="media_icon_dimension_lg">96dp</dimen>
+    <dimen name="standard_margin_sm">10dp</dimen>
+    <dimen name="padding_xs">5dp</dimen>
+</resources>

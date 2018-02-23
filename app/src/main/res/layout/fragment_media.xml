@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.times.timesmobile.ui.fragments.MediaFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        >
+        <ImageView
+            android:id="@+id/fragment_bookmark_img"
+            android:layout_width="@dimen/media_icon_dimension_lg"
+            android:layout_height="@dimen/media_icon_dimension_lg"
+            app:srcCompat="@drawable/ic_perm_media_black_24dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/standard_margin_sm"
+            />
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fragment_bookmark_text"
+            android:gravity="center"
+            android:textColor="@color/cloudy"
+            style="@style/TextAppearance.AppCompat.Medium"
+            android:text="Audio, Pictures &amp; Video"
+            />
+    </LinearLayout>
+</RelativeLayout>

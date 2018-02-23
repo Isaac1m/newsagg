@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Mobile Broadcaster</string>
+    <string name="title_feed">News Feed</string>
+    <string name="title_media">Media</string>
+    <string name="title_bookmark">Bookmarks</string>
+    <string-array name="sample_descriptions">
+        <item>It is good business practice to prepare a bank reconciliation statement
+        each time a bank statement is received. The reconciliation statement
+        should be prepared as quickly as possible so that any queries –
+        either with the bank statement or in the firm’s cash book – can be resolved.
+        Many firms will specify to their accounting staff the timescales for preparing
+        bank reconciliation statements. For example, if the bank statement is
+        received weekly, then the reconciliation statement should be
+        prepared within five working days.</item>
+        <item>“You appear to be a mass of contradictions,” Dr. Washburn said. “There‟s a subsurface
+violence almost always in control, but very much alive. There‟s also a pensiveness that seems
+painful for you, yet you rarely give vent to the anger that pain must provoke.”
+“You‟re provoking it now,” said the man.
+“And we‟ll continue to do so, as long as there‟s progress.”
+“I wasn‟t aware any progress had been made.”</item>
+        <item>Let me give you an example.” The doctor put the clipboard down and got out of the chair.
+He walked to a primitive cupboard against the wall, opened a drawer, and took out a large
+automatic handgun. The man with no memory tensed in his chair; Washburn was aware of the
+reaction. “I‟ve never used this, not sure I‟d know how to, but I do live on the waterfront.” He
+smiled, then suddenly, withou</item>
+        <item>The sun had risen to the midpoint of the surrounding trees, its rays filtered by windblown
+branches, streaming through the windows and mottling the walls with irregular shapes of light.
+Bourne lay back on the pillow, exhausted. He had finished; there was nothing more to say.
+Marie sat across the room in a leather armchair, her legs curled up under her, cigarettes a</item>
+        <item>“I‟m not sure. Perhaps, it goes back to something else you said in the booth at the Drei
+Alpenhäuser. That fat man was coming over and you told me to stay against the wall, cover my
+face with my hand. „For your own good,‟ you said. „There‟s no point in his being able to identify
+you.‟</item>
+        <item>Bourne held up his hand. “Forgive me, but that strikes me as a judgment based on false
+gratitude. You say you have a respect for facts—then look at them. I repeat: you heard what they
+said—regardless of what you think you saw and feel—you heard the words. Boiled down,
+envelopes were filled with money and delivered to me to fulfill certain obligations. I‟d say those
+obligations were pretty clear, and I accepted them. I had a numbered account at the
+Gemeinschaft Bank totaling about five million dollars. Where did I get it? Where does a man
+like me—with the obviou</item>
+        <item>Bourne looked at her. “I thought—”
+“Why not?” she broke in. “You‟re a condemned man who wants to get it over with, aren‟t
+you? You lie there talking with such finality—with, if you‟ll forgive me, not a little self-pity,
+expecting to appeal to my ... what was it? False gratitude? Well, I think you‟d better understand
+something. I‟m not a fool; if I thought for a minute you‟re what they say you are, I wouldn‟t be
+here and neither would you. Facts that cannot be documented aren‟t facts at all. You don‟t have
+facts, you have conclusions, </item>
+        <item>And an unexplained bank account with five million dollars in it. Don‟t forget that.”
+“How could I? I‟m supposed to be a financial whiz. That account may not be explained in
+ways that you‟d like, but there‟s a proviso attached that lends a considerable degree of legitimacy
+to it. It can be inspected—probably invaded—by any certified director of a corpor</item>
+        <item>Their living arrangements in the room at the village inn were as clinical as they might have
+been in the hospital ward it replaced. During the daylight hours Marie took care of various
+practical matters such as clothes, meals, maps, and newspapers. On her own she had driven the
+stolen car ten miles south to the town of Reinach where she had abandoned it, taking a taxi back
+to Lenzburg. When she was out Bourne concentrated on rest and mobility. From somewhere in
+his forgotten past he understood that recovery depended upon bo</item>
+        <item>It was really as simple as that,” she told him. “I‟d looked at books as natural enemies, and
+suddenly, here I was in a place surrounded by people who were caught up in them, having a
+marvelous time. Everything was talk. Talk all day, talk all night—in classrooms and seminars, in
+crowded booths o</item>
+        <item>It is good business practice to prepare a bank reconciliation statement
+        each time a bank statement is received. The reconciliation statement
+        should be prepared as quickly as possible so that any queries –
+        either with the bank statement or in the firm’s cash book – can be resolved.
+        Many firms will specify to their accounting staff the timescales for preparing
+        bank reconciliation statements. For example, if the bank statement is
+        received weekly, then the reconciliation statement should be
+        prepared within five working days.</item>
+        <item>“You appear to be a mass of contradictions,” Dr. Washburn said. “There‟s a subsurface
+violence almost always in control, but very much alive. There‟s also a pensiveness that seems
+painful for you, yet you rarely give vent to the anger that pain must provoke.”
+“You‟re provoking it now,” said the man.
+“And we‟ll continue to do so, as long as there‟s progress.”
+“I wasn‟t aware any progress had been made.”</item>
+        <item>Let me give you an example.” The doctor put the clipboard down and got out of the chair.
+He walked to a primitive cupboard against the wall, opened a drawer, and took out a large
+automatic handgun. The man with no memory tensed in his chair; Washburn was aware of the
+reaction. “I‟ve never used this, not sure I‟d know how to, but I do live on the waterfront.” He
+smiled, then suddenly, withou</item>
+        <item>The sun had risen to the midpoint of the surrounding trees, its rays filtered by windblown
+branches, streaming through the windows and mottling the walls with irregular shapes of light.
+Bourne lay back on the pillow, exhausted. He had finished; there was nothing more to say.
+Marie sat across the room in a leather armchair, her legs curled up under her, cigarettes a</item>
+        <item>“I‟m not sure. Perhaps, it goes back to something else you said in the booth at the Drei
+Alpenhäuser. That fat man was coming over and you told me to stay against the wall, cover my
+face with my hand. „For your own good,‟ you said. „There‟s no point in his being able to identify
+you.‟</item>
+        <item>Bourne held up his hand. “Forgive me, but that strikes me as a judgment based on false
+gratitude. You say you have a respect for facts—then look at them. I repeat: you heard what they
+said—regardless of what you think you saw and feel—you heard the words. Boiled down,
+envelopes were filled with money and delivered to me to fulfill certain obligations. I‟d say those
+obligations were pretty clear, and I accepted them. I had a numbered account at the
+Gemeinschaft Bank totaling about five million dollars. Where did I get it? Where does a man
+like me—with the obviou</item>
+        <item>Bourne looked at her. “I thought—”
+“Why not?” she broke in. “You‟re a condemned man who wants to get it over with, aren‟t
+you? You lie there talking with such finality—with, if you‟ll forgive me, not a little self-pity,
+expecting to appeal to my ... what was it? False gratitude? Well, I think you‟d better understand
+something. I‟m not a fool; if I thought for a minute you‟re what they say you are, I wouldn‟t be
+here and neither would you. Facts that cannot be documented aren‟t facts at all. You don‟t have
+facts, you have conclusions, </item>
+        <item>And an unexplained bank account with five million dollars in it. Don‟t forget that.”
+“How could I? I‟m supposed to be a financial whiz. That account may not be explained in
+ways that you‟d like, but there‟s a proviso attached that lends a considerable degree of legitimacy
+to it. It can be inspected—probably invaded—by any certified director of a corpor</item>
+        <item>Their living arrangements in the room at the village inn were as clinical as they might have
+been in the hospital ward it replaced. During the daylight hours Marie took care of various
+practical matters such as clothes, meals, maps, and newspapers. On her own she had driven the
+stolen car ten miles south to the town of Reinach where she had abandoned it, taking a taxi back
+to Lenzburg. When she was out Bourne concentrated on rest and mobility. From somewhere in
+his forgotten past he understood that recovery depended upon bo</item>
+        <item>It was really as simple as that,” she told him. “I‟d looked at books as natural enemies, and
+suddenly, here I was in a place surrounded by people who were caught up in them, having a
+marvelous time. Everything was talk. Talk all day, talk all night—in classrooms and seminars, in
+crowded booths o</item>
+    </string-array>
+    <string-array name="sample_titles">
+        <item>There are a few things that will help</item>
+        <item>If you stop to think for a momen</item>
+        <item>The competitive research you do will force</item>
+        <item>Seeing the big picture will let you see</item>
+        <item>It is a prerequisite in most cases to apply for funding</item>
+        <item>Which was why they did not talk about i</item>
+        <item>I have a perfectly normal working knowledge o</item>
+        <item>You met with people, that means you had appointments</item>
+        <item>They have been,” he replied. “Explain the</item>
+        <item>If you like. My experience is limited</item>
+        <item>There are a few things that will help</item>
+        <item>If you stop to think for a momen</item>
+        <item>The competitive research you do will force</item>
+        <item>Seeing the big picture will let you see</item>
+        <item>It is a prerequisite in most cases to apply for funding</item>
+        <item>Which was why they did not talk about i</item>
+        <item>I have a perfectly normal working knowledge o</item>
+        <item>You met with people, that means you had appointments</item>
+        <item>They have been,” he replied. “Explain the</item>
+        <item>If you like. My experience is limited</item>
+    </string-array>
+    <string name="title_activity_article_details">Article Details</string>
+    <string name="sample_description">description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
